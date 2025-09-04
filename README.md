@@ -18,6 +18,8 @@ CS771/
 ├── report.pdf                   # Project report with methodology, results, and analysis
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project documentation
+```
+
 
 ## Setup Instructions
 
