@@ -21,8 +21,6 @@ CS771/
 
 ## Setup Instructions
 
-**Setup Environment**
-
 * Activate virtual environment:
   
 ```bash
